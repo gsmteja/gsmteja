@@ -23,4 +23,4 @@
 
 ## 🏆 Certification
 
-- **AWS Certified Solutions Architect – Associate (SAA-C03)**: [Verify on Credly]([your Credly link])
+- **AWS Certified Solutions Architect – Associate (SAA-C03)**
