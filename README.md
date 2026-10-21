@@ -7,7 +7,7 @@
 </p>
 
 - 🌱 Currently working at **Cognizant** in production support and release management
-- 🚀 Experienced in **AWS, Terraform, Kubernetes, Docker, CI/CD (GitLab, GitHub Actions, Jenkins, Argo CD)**
+- 🚀 Experienced in **AWS, Terraform, Kubernetes, Docker, CI/CD (GitHub Actions, Jenkins, Argo CD)**
 - 💬 Ask me about **DevOps practices, cloud computing, and automation**
 - 📫 How to reach me 👇
   - [manikyateja21@gmail.com](mailto:manikyateja21@gmail.com)
@@ -16,11 +16,11 @@
 ## Languages and Tools:
 
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,terraform,aws,git,gitlab,githubactions,jenkins,prometheus,grafana,python,bash" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,terraform,aws,git,githubactions,jenkins,prometheus,grafana,python,bash" alt="Tools" />
 </p>
 
 **Also:** Argo CD · SonarQube · Trivy · OWASP Dependency-Check · Docker Scout · Azure (basic)
 
 ## 🏆 Certification
 
-- **AWS Certified Solutions Architect – Associate (SAA-C03)**
+- **AWS Certified Solutions Architect – Associate (SAA-C03)**: [Verify on Credly]([your Credly link])
